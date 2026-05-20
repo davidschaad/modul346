@@ -1,4 +1,4 @@
-# Willkommen in Modul 346 - Cloud Lösungen konzipieren und realisieren
+# Modul 346 - Cloud Lösungen konzipieren und realisieren
+Hier finden Sie die Konfiguration für terraform.
 
-## Modulunterlagen
 
